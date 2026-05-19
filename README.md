@@ -9,4 +9,4 @@ The study quantifies crop-specific climate stress responses and evaluates whethe
 ## Repository contents
 
 ```text
-data/          Input, processed, and metadata files
+gams_All/          Input, processed, and metadata files
