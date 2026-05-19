@@ -1,4 +1,4 @@
-# Crop switching under climate stress: GAMSPy optimization workflow
+#GAMSPy optimization workflow
 
 This repository contains the data-processing materials for the study:
 
